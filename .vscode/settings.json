@@ -1,0 +1,7 @@
+{
+	"search.exclude": {
+		"export/**/*.*": true
+	},
+	
+	"lime.defaultTargetConfiguration": "Windows / Debug"
+}
